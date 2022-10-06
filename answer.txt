@@ -7,3 +7,10 @@ Question3: When navigating to "/", the browser shows "Page not found (404)". Whe
 Question4: Migration is the way of propagating changes to the models into the database. It helps to tell Django that I make changes to the models and edit the database. 
 
 Question5: There are Choices and Questions models under the POLLS section. We can set up the models and use the python code "admin.site.register(model)".
+
+Question6: /polls/38 shows "You're looking at question 38."
+	/polls/38/results shows "You're looking at the results of question 38."
+	/polls/38/vote shows "You're voting on question 38."
+	If I put a string ,the browser shows "Page not found 404"
+	To modify the code, we need to change the type of "question_id" from int to str. 
+
