@@ -14,3 +14,5 @@ Question6: /polls/38 shows "You're looking at question 38."
 	If I put a string ,the browser shows "Page not found 404"
 	To modify the code, we need to change the type of "question_id" from int to str. 
 
+
+Question7: Because we would have to change urls everytime it changes. 
