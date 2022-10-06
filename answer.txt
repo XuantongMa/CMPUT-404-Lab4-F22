@@ -16,3 +16,5 @@ Question6: /polls/38 shows "You're looking at question 38."
 
 
 Question7: Because we would have to change urls everytime it changes. 
+
+Question8: Using Django's generic views can reduce redundancy. If some views have similar functionalities, we can use generic view. If not, we shouldn't use it. 
